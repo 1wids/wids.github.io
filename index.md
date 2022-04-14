@@ -12,7 +12,7 @@ name...topic...
 
 # Registration
 
-![Image](src)
+![This is an image](https://www.google.com/search?q=wids&sxsrf=APq-WBshDgBvfL9c1FXzU_OflOlV84SAJQ:1649895512502&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiat8Hfo5L3AhU2DkQIHa8HDM8Q_AUoA3oECAEQBQ&biw=1327&bih=650&dpr=2#imgrc=A5GQxJydEOoeIM)
 
 You can use the [editor on GitHub](https://github.com/1wids/wids.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
